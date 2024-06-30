@@ -118,17 +118,3 @@ información se almacenará en una tabla de registro.
   5. Crea un nuevo Pull Request.
 
 ---
-
-## Licencia
-
-Este proyecto está bajo la licencia [Nombre de la Licencia]. Consulta el archivo `LICENSE` para más detalles.
-```
-
-### Consideraciones:
-
-- **Requisitos**: Aquí debes especificar los requisitos de software necesarios para ejecutar tu proyecto.
-- **Configuración del Entorno**: Instrucciones paso a paso para configurar el entorno de desarrollo, incluyendo la instalación de dependencias y la configuración de la base de datos.
-- **Ejecución**: Explica cómo ejecutar la aplicación localmente.
-- **Estructura del Proyecto**: Describe brevemente la estructura de archivos y directorios del proyecto.
-- **Contribución**: Instrucciones para que otros desarrolladores contribuyan al proyecto.
-- **Licencia**: Especifica la licencia bajo la cual se distribuye el proyecto.
